@@ -4,7 +4,10 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=010405&size=26&center=true&vCenter=true&height=30&lines=Full+Stack+Developer;Java+developer;+React+Developer+;+FrontEnd+Developer;+BackEnd+Developer;Web+Developer)](https://git.io/typing-svg) 
    <!--<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">-->
    
-   ### 💼 I currently working as Full-Stack & Integration Developer in the financial industry
+   ### 💼 Currently I am developing the "Student Attendance for Transportation" website for Nazaf Israel School, I am developing in the following languages: Java (BackEnd), React (FrontEnd)
+And I'm developing an app to strengthen the relationship with the help of advice and guidance from an elderly person.
+I develop in the following languages:
+Java (BackEnd), React native (FrontEnd)
    
    # 💻 Tech Stack:
    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
