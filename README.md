@@ -49,10 +49,7 @@ Java (BackEnd), React native (FrontEnd)
  <br/>
 -->
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/elad-avrahami81" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[![Instagram Badge](https://img.shields.io/badge/-@elad.avrahami-broun?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/elad.avrahami/)](https://www.instagram.com/elad.avrahami/)
-
+<a href="https://www.linkedin.com/in/ruthi-vengrover-15670625a/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
