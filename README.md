@@ -62,8 +62,8 @@ Java (BackEnd), React native (FrontEnd)
 
 
 <!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eladavrahami&theme=radical&no-frame=false&no-bg=true&margin-w=6)-->
-<a href="https://github.com/EladAvrahami"><img src=https://raw.githubusercontent.com/Explosion-Scratch/Explosion-scratch/a407529eda6cf7c81265dae00a6eab19d1597632/github-contribution-grid-snake.svg /></a>
+![](https://github-profile-trophy.vercel.app/?username=ruthiv&theme=radical&no-frame=false&no-bg=true&margin-w=6)-->
+<a href="https://github.com/ruthiv"><img src=https://raw.githubusercontent.com/Explosion-Scratch/Explosion-scratch/a407529eda6cf7c81265dae00a6eab19d1597632/github-contribution-grid-snake.svg /></a>
 <img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/projects.gif" />
 <!-- <img width="10%" src="https://visitor-badge.glitch.me/badge?page_id=EladAvrahami.EladAvrahami" />  -->
 
